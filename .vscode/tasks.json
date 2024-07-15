@@ -6,7 +6,7 @@
         {
             "label": "pushall",
             "type": "shell",
-            "command": "(git add .) -and (git commit -m '1234 ') -and (git push)"
+            "command": "(git add .); (git commit -m '1234 '); (git push)"
               },
         }
     ]
