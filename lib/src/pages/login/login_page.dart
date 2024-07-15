@@ -75,7 +75,7 @@ class _LoginPageState extends State<LoginPage> {
     return [
       ElevatedButton(
         onPressed: _handleClickLogin,
-        child: Text("Login"),
+        child: Text("SignUp"),
       ),
       OutlinedButton(
         onPressed: _handleClickReset,
